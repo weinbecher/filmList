@@ -11,7 +11,7 @@ class CommentBox extends Component {
                   text: "I love JS more each day."
                 },
                 { id: 2,
-                  author: "Juan",
+      da            author: "Juan",
                   text: "Just wait until we add the form. It's gonna be so good."
                 }
            ]
